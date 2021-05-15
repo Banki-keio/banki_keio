@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<meta charset="UTF-8" />
+<head>
+<title>テストhtmlファイル(atom)</title>
+</head>
+<body>
+<p>これはテストで作ったhtmlファイルです。テキストエディタにはatomを使用しました。
+試しに、<a href="http://www.keio.ac.jp/">
+慶應のページのリンクを作成してみます。</a>
+</p>
+<p>メディアセンターへのリンクは
+<a href="https://www.lib.keio.ac.jp/">
+こちら</a>です。
+</p>
+<ul type=square>
+  <li>慶應義塾大学のキャンパス
+    <ol>
+      <li>三田
+      <li>日吉
+      <li>矢上
+      <li>信濃町
+      <li>湘南藤沢
+      <li>芝共立
+      </ol>
+</ul>
+<p>
+私が好きな<em>ブラウザ</em>はGoogle Chromeである。
+有効な対策がされるまでは<strong>IEを使わないようにする</strong>ことが何よりも大切だ。
+</p>
+<p>
+  時間割(春学期)へのリンクはこちらです。
+</p>
+</body>
+</html>
